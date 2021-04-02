@@ -430,5 +430,6 @@ namespace Shapes
         }
     }
 }
-/* wow, congrats! you made it to the bottom of my code. im reletively new to coding in c# and so reccomendations and support will be greatly appreciated. 
+/* wow, congrats! you made it to the bottom of my code. im reletively new to coding in c# and so recommendations and support will be greatly appreciated. 
  * either way, thank you for checking this out and feel free to mess about with it, i would love to see what you do with it!
+ */

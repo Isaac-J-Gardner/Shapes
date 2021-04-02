@@ -8,3 +8,7 @@ C:\Users\isaac\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResour
 C:\Users\isaac\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
 C:\Users\isaac\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe
 C:\Users\isaac\source\repos\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\isaac\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe.manifest
+C:\Users\isaac\source\repos\Shapes\Shapes\bin\Debug\Shapes.application
+C:\Users\isaac\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe.manifest
+C:\Users\isaac\source\repos\Shapes\Shapes\obj\Debug\Shapes.application
